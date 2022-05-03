@@ -135,3 +135,9 @@ figcaption {
     }
 
 }
+
+@media screen and (max-width: 350px){
+    .flex-items img {
+        height: 150px;
+    }
+}
